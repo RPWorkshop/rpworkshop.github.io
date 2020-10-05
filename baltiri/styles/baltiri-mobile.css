@@ -1,0 +1,12 @@
+html, body {
+	margin: 0;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+#wrapper {
+	width: 100%;
+	border: 1px solid blue;
+}
